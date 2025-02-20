@@ -7,5 +7,6 @@
 ## One of the challenges we faced on how would the game end as it took us some time to decide how would the game end.Another challnege was that we faced was that we had to be careful with typos as there was no auto correct.Through this project I learned the importance of timing as me and my partner had to get things done before the deadline or we be in trouble.Alon with that I learned how to adapt with working with other people.Finally through out this project I was able to become more creative.I'm glad I took this project as I saw it as an opprotunity for life lessons I would use again soon.
 ### link to the project plan:https://docs.google.com/drawings/d/1mHO4nNVEjzzgO6a2A2EREiCJF9y1vCcLVXz_AM2WgGI/edit
 ### link to the project itself:https://github.com/alialridae8060/escape-from-school/blob/main/README.md
-### link to the readme.md:
+### link to the readme.md:https://github.com/alialridae8060/escape-from-school-cyoa.html/tree/main
+### link to the project code:https://github.com/alialridae8060/escape-from-school/blob/main/start.md?plain=1
 
